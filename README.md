@@ -438,3 +438,5 @@ Used in:
 ## 📄 License
 
 This project is open-source and free to use.
+
+<img width="650" height="744" alt="image" src="https://github.com/user-attachments/assets/cdd4a566-6867-4019-bd02-bf26bcf27a7d" />
